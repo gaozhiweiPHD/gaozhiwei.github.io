@@ -1,0 +1,50 @@
+
+
+.heading{
+    text-align: center;
+}
+img{
+    width: 200px;
+    margin-right: 50px;
+}
+
+a{
+    text-decoration: None;
+    padding: 0px;
+    /* text-align: center; */
+    font-size: 18px;
+
+}
+.h2{
+    text-align: left;
+    font-size: 15px;
+}
+
+.table-container {
+    width: 100%;
+    margin: 0 0;
+  }
+  
+  .my-table {
+    width: 100%;
+    border-collapse: collapse;
+    /* border-spacing: -10px; */
+    table-layout: fixed;
+  }
+ 
+  .my-table td {
+    padding: 10px;
+  }
+  .my-table tr {
+    padding: -10px;
+  }
+
+  .left-align {
+    text-align: left;
+  }
+  
+  .right-align {
+    text-align: right;
+  }
+  
+  
